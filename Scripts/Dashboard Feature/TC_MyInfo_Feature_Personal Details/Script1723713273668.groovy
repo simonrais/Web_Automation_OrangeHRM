@@ -36,6 +36,25 @@ WebUI.sendKeys(findTestObject('DashboardPage/MyInfo_Feature'), Keys.chord(Keys.P
 
 WebUI.delay(3)
 
+WebUI.setText(findTestObject('DashboardPage/MyInfo_Feature/PersonalDetails/input_Employee Full Name_firstName'), 'Arkhan')
+
+WebUI.delay(3)
+
+WebUI.setText(findTestObject('DashboardPage/MyInfo_Feature/PersonalDetails/input_Employee Full Name_middleName'), 'Yuhu')
+
+WebUI.delay(3)
+
+WebUI.setText(findTestObject('DashboardPage/MyInfo_Feature/PersonalDetails/input_Employee Full Name_lastName'), 'Tester')
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('DashboardPage/MyInfo_Feature/PersonalDetails/buttonSave'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.verifyElementPresent(findTestObject('DashboardPage/MyInfo_Feature/PersonalDetails/div_SuccessSuccessfully Updated'), 
+    3)
+
 WebUI.click(findTestObject('Object Repository/DashboardPage/MyInfo_Feature/span_manda user'))
 
 WebUI.delay(3)

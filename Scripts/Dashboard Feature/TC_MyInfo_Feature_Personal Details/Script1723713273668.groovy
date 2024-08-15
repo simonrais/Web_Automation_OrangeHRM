@@ -61,3 +61,5 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/DashboardPage/MyInfo_Feature/a_Logout'))
 
+WebUI.closeBrowser()
+

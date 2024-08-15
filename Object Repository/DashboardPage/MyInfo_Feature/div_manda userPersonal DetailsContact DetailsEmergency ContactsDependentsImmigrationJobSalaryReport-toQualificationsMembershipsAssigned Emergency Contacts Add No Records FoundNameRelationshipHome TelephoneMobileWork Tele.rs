@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsAssigned Emergency Contacts Add No Records FoundNameRelationshipHome TelephoneMobileWork Tele</name>
+   <tag></tag>
+   <elementGuidId>310cb7e0-e6e3-4f26-b001-a3f4e36c860b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a275de00-d80a-443b-8039-3096e8b1b541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>c86fcf6f-5156-4572-aca9-fa871f7f322f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsAssigned Emergency Contacts Add No Records FoundNameRelationshipHome TelephoneMobileWork TelephoneActionsAttachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions</value>
+      <webElementGuid>63dea6fd-4002-474a-8b05-5792086e179c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>2ba96212-056f-47db-a1c9-0f4cd0310866</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>3f3146bb-f2a4-41b5-97c5-70f8acbed9a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>808cd8b8-02c0-4885-ba69-bdbab0bcdfbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsAssigned Emergency Contacts Add No Records FoundNameRelationshipHome TelephoneMobileWork TelephoneActionsAttachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions' or . = 'manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsAssigned Emergency Contacts Add No Records FoundNameRelationshipHome TelephoneMobileWork TelephoneActionsAttachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions')]</value>
+      <webElementGuid>31f19128-62a7-4621-a434-30e56952506b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

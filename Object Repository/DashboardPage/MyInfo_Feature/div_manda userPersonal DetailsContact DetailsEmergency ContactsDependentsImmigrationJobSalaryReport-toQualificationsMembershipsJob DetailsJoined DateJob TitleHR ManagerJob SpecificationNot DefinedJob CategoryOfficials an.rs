@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsJob DetailsJoined DateJob TitleHR ManagerJob SpecificationNot DefinedJob CategoryOfficials an</name>
+   <tag></tag>
+   <elementGuidId>b164cdd3-1836-4563-b3c7-42d8383923cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c641792-e4ce-42d9-925d-af684801afa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>c2a8b760-7c5d-4212-86f2-ee4722d6c9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsJob DetailsJoined DateJob TitleHR ManagerJob SpecificationNot DefinedJob CategoryOfficials and ManagersSub UnitHuman ResourcesLocationTexas R&amp;DEmployment StatusFull-Time PermanentInclude Employment Contract DetailsAttachmentsNo Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions</value>
+      <webElementGuid>eae8fc12-de09-46dd-925c-77afd2a623ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>4f40e467-e36d-4c9c-b7c5-22fdbf50e6a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>a7db5529-9dbc-4b3a-bae9-f06e4b0e0af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>56cc06d1-6157-40f1-bac2-7c535d9253b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsJob DetailsJoined DateJob TitleHR ManagerJob SpecificationNot DefinedJob CategoryOfficials and ManagersSub UnitHuman ResourcesLocationTexas R&amp;DEmployment StatusFull-Time PermanentInclude Employment Contract DetailsAttachmentsNo Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions' or . = 'manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsJob DetailsJoined DateJob TitleHR ManagerJob SpecificationNot DefinedJob CategoryOfficials and ManagersSub UnitHuman ResourcesLocationTexas R&amp;DEmployment StatusFull-Time PermanentInclude Employment Contract DetailsAttachmentsNo Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions')]</value>
+      <webElementGuid>6d14905b-a60b-4dcd-827e-d0967011f94b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

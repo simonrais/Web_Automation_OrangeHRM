@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsQualificationsWork Experience Add (1) Record FoundCompanyJob TitleFromToCommentActionsTCSTEST</name>
+   <tag></tag>
+   <elementGuidId>a438cf08-b84a-4351-9e03-073b40862be5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b3a7d60f-97d2-4578-b253-5e02c2a08815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>6454071c-5426-4825-a47c-980cd1b0fc1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsQualificationsWork Experience Add (1) Record FoundCompanyJob TitleFromToCommentActionsTCSTESTER2020-02-092023-16-07HII HELLOEducation Add (1) Record FoundLevelYearGPA/ScoreActionsBachelor's DegreeSkills Add No Records FoundSkillYears of ExperienceActionsLanguages Add (1) Record FoundLanguageFluencyCompetencyCommentsActionsEnglishSpeakingMother TongueLicense Add No Records FoundLicense TypeIssued DateExpiry DateActionsAttachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions</value>
+      <webElementGuid>ffc783b7-1125-40c0-ada7-8645c117ad17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>38eaae8c-f246-432c-a18b-8c1dc491577a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>d399ba85-9731-46ff-8a73-7ba2d362d4bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>a2cb46ce-0569-483a-9199-9d0178fcbb95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsQualificationsWork Experience Add (1) Record FoundCompanyJob TitleFromToCommentActionsTCSTESTER2020-02-092023-16-07HII HELLOEducation Add (1) Record FoundLevelYearGPA/ScoreActionsBachelor&quot; , &quot;'&quot; , &quot;s DegreeSkills Add No Records FoundSkillYears of ExperienceActionsLanguages Add (1) Record FoundLanguageFluencyCompetencyCommentsActionsEnglishSpeakingMother TongueLicense Add No Records FoundLicense TypeIssued DateExpiry DateActionsAttachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions&quot;) or . = concat(&quot;manda userPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsQualificationsWork Experience Add (1) Record FoundCompanyJob TitleFromToCommentActionsTCSTESTER2020-02-092023-16-07HII HELLOEducation Add (1) Record FoundLevelYearGPA/ScoreActionsBachelor&quot; , &quot;'&quot; , &quot;s DegreeSkills Add No Records FoundSkillYears of ExperienceActionsLanguages Add (1) Record FoundLanguageFluencyCompetencyCommentsActionsEnglishSpeakingMother TongueLicense Add No Records FoundLicense TypeIssued DateExpiry DateActionsAttachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions&quot;))]</value>
+      <webElementGuid>1dcd3173-0ddd-4ac2-b60c-b362d9f99e95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

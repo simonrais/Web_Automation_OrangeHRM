@@ -23,7 +23,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-WebUI.delay(5)
+WebUI.verifyElementPresent(findTestObject('LoginPage/div_Login_orangehrm-login-branding'), 2)
+
+WebUI.delay(10)
 
 WebUI.setText(findTestObject('Object Repository/LoginPage/input_Username_username'), 'Admin')
 
@@ -37,8 +39,7 @@ WebUI.click(findTestObject('Object Repository/LoginPage/button_Login'))
 
 WebUI.delay(2)
 
-WebUI.verifyElementPresent(findTestObject('DashboardPage/Navigasi/ul_AdminPIMLeaveTimeRecruitmentMy InfoPerformanceDashboardDirectoryMaintenanceClaimBuzz'), 
-    2)
+WebUI.verifyElementPresent(findTestObject('DashboardPage/Navigasi/h6_Dashboard'), 2)
 
 WebUI.scrollToElement(findTestObject('DashboardPage/Navigasi/p_2005 - 2024 OrangeHRM, Inc. All rights reserved'), 3)
 
@@ -49,6 +50,8 @@ WebUI.click(findTestObject('Object Repository/LoginPage/i_Upgrade_oxd-icon bi-ca
 WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/LoginPage/a_Logout'))
+
+WebUI.verifyElementPresent(findTestObject('LoginPage/div_Login_orangehrm-login-branding'), 0)
 
 WebUI.delay(3)
 

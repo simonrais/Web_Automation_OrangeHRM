@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_MyInfo_Feature</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba9d3b21-43f7-4e76-b796-7a3d567e20ae</testCaseGuid>
+</TestCaseEntity>

@@ -32,6 +32,8 @@ WebUI.click(findTestObject('Object Repository/DashboardPage/MyInfo_Feature/a_My 
 WebUI.verifyElementPresent(findTestObject('DashboardPage/MyInfo_Feature/div_Personal DetailsEmployee Full NameEmployee IdOther IdDrivers License NumberLicense Expiry DateNationalityAlbanianMarital StatusSingleDate of BirthGenderMaleFemale  Required Save'), 
     3)
 
+WebUI.sendKeys(findTestObject('DashboardPage/MyInfo_Feature'), Keys.chord(Keys.PAGE_DOWN))
+
 WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/DashboardPage/MyInfo_Feature/a_Contact Details'))
